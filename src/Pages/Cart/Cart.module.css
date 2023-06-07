@@ -1,0 +1,27 @@
+
+
+.main-card {
+    width: 500px;
+    margin: 30px 10px 40px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    padding: 10px;
+    height: 540px;
+}
+
+
+
+
+
+.empty-cart-img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+
+
+
